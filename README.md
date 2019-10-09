@@ -7,12 +7,12 @@
 - 🎣 Hooks / Context
 - 🛣️ React Router
 - 📝 OOP for Rules
-- ⚙️ Grommet Design System
-- 📱 Modile First Responsive design
+- ⚙️ Grommet (React Design System)
+- 📱 Mobile First Responsive design
 
 <p>
 Reproduce the famous Yahtzee or Yam's (for 🇫🇷 players).<br/> 
-I only get the basics ressources from a Udemy Bootcamp from Colt Steele 👨‍🏫<br/>
+ 👨‍🏫 I only get the basics ressources from a Udemy Bootcamp from Colt Steele<br/>
 </p>
 
 <p align="center">
