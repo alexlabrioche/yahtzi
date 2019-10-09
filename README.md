@@ -16,6 +16,6 @@ I only get the basics ressources from a Udemy Bootcamp from Colt Steele 👨‍�
 
 <p align="center">
   <br><br>
-  <img src="/publie/git/yahtzi.gif">
+  <img src="/public/git/yahtzi.gif">
   <br><br>
 </p>
