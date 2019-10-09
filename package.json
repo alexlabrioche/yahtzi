@@ -1,0 +1,40 @@
+{
+  "name": "yahtzee",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "grommet": "^2.7.8",
+    "react": "^16.9.0",
+    "react-dom": "^16.4.1",
+    "react-icons": "^3.7.0",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.1.2",
+    "react-spring": "^8.0.27",
+    "styled-components": "^4.3.2",
+    "uuid": "^3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "enzyme": "^3.8.0",
+    "enzyme-adapter-react-16": "^1.7.1",
+    "enzyme-to-json": "^3.3.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
