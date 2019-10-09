@@ -5,6 +5,7 @@
 #### React Game
 
 - 🎣 Hooks / Context
+- 🛣️ React Router
 - 📝 OOP for Rules
 - ⚙️ Grommet Design System
 - 📱 Modile First Responsive design
